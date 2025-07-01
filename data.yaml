@@ -1,0 +1,23 @@
+train: dataset/images/train
+val: dataset/images/val
+test: dataset/images/test
+
+nc: 7  # Number of classes
+names:
+  - person
+  - helmet
+  - self_clothes
+  - safety_clothes
+  - head
+  - blur_head
+  - blur_clothes
+
+
+weights: 
+  - 1.0  # person
+  - 1.0  # helmet
+  - 1.0  # self_clothes
+  - 1.0  # safety_clothes
+  - 1.0  # head
+  - 3.0  # blur_head  
+  - 3.0  # blur_clothes 
