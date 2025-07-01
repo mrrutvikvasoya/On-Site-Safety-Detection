@@ -4,6 +4,8 @@
 
 This project aims to fine-tune and evaluate YOLOv10 and YOLOv11 models for safety detection, specifically for identifying safety helmets, safety clothing, and blurred objects in images. The models are trained on the **SFCHD-SCALE dataset**, which contains 50,559 images across 7 classes. The dataset is used to improve the detection of safety-related objects in various environments, particularly in construction and industrial settings.
 
+![YOLOv11 Detection Example](tes.jpeg)
+
 ## Key Features
 
 - **Models**: YOLOv10 and YOLOv11
