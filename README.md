@@ -63,5 +63,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/YOLO-Safety-Detection.git
+   git clone https://github.com/mrrutvikvasoya/YOLO-Safety-Detection.git
    cd YOLO-Safety-Detection
